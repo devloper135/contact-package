@@ -1,0 +1,19 @@
+{
+    "name": "akshay/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akshay Shah",
+            "email": "akshay.shah@yudiz.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Akshay\\Contact\\": "src/"
+        }
+    }
+}
